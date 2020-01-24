@@ -12,16 +12,19 @@ Course Number: B9120-001
 
 ##Course description and outline:
 
+
+
 * Problem formulations
   * Finite horizon
   * Infinite horizon discounted
   * Continuous time discrete state problems
   * Brief overview of average cost and indefinite horizon problems. 
 * Problem specific ideas
-  * Myopic policies in optimal stopping
+  * Myopic policies in optimal stopping 
   * Base-stock and (s,S) policies in inventory control
   * Linear policies in linear quadratic control
-  * Interchange arguments and optimality of index policies in multi-armed bandits and scheduling. 
+  * Kalman filtering and certainty equivalent control
+  * Interchange arguments and optimality of index policies in multi-armed bandits and control of queues. 
 * Exact algorithms for problems with tractable state-spaces
   * Value Iterations
   * Policy Iteration
@@ -29,6 +32,5 @@ Course Number: B9120-001
 * Foundations of reinforcement learning and approximate dynamic programming. 
   * Asynchronous value iteration and optimistic variants   
   * Convergence of policy gradient methods 
-  * Convergence of on-policy TD but non-convergence of Q-learning 
-  * 
-
+  * Convergence of TD-learning 
+  * Policy chattering in Q-learning 
