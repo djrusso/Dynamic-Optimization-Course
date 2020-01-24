@@ -10,7 +10,7 @@ TAs: Jalaj Bhandari and Chao Qin
 Course Number: B9120-001
 
 
-##Course description and outline:
+## Course description and outline:
 
 This course serves as an advanced introduction to dynamic programming and optimal control. The first part of the course will cover  problem formulation and problem specific solution ideas arising in cannonincal control problems. The second part of the course covers algorithms for computing optimal (or effective) policies. 
 
