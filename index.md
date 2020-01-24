@@ -17,11 +17,11 @@ Course Number: B9120-001
   * Infinite horizon discounted
   * Continuous time discrete state problems
   * Brief overview of average cost and indefinite horizon problems. 
-* Optimality of special policy classes in restricted problems:
+* Problem specific ideas
   * Myopic policies in optimal stopping
   * Base-stock and (s,S) policies in inventory control
   * Linear policies in linear quadratic control
-  * Index policies in multi-armed bandits and queuing/scheduling
+  * Interchange arguments and optimality of index policies in multi-armed bandits and scheduling. 
 * Exact algorithms for problems with tractable state-spaces
   * Value Iterations
   * Policy Iteration
