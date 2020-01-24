@@ -12,12 +12,13 @@ Course Number: B9120-001
 
 ##Course description and outline:
 
+This course serves as an advanced introduction to dynamic programming and optimal control. The first part of the course will cover  problem formulation and problem specific solution ideas arising in cannonincal control problems. The second part of the course covers algorithms for computing optimal (or effective) policies. 
 
 
 * Problem formulations
   * Finite horizon
   * Infinite horizon discounted
-  * Continuous time discrete state problems
+  * Continuous-time discrete-state problems
   * Brief overview of average cost and indefinite horizon problems. 
 * Problem specific ideas
   * Myopic policies in optimal stopping 
@@ -34,3 +35,9 @@ Course Number: B9120-001
   * Convergence of policy gradient methods 
   * Convergence of TD-learning 
   * Policy chattering in Q-learning 
+  * Approximate linear programming
+
+
+## Prerequisites
+Markov chains, linear programming; mathematical maturity (this is a doctoral course). 
+
