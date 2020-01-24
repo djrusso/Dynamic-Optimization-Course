@@ -12,7 +12,7 @@ Course Number: B9120-001
 
 ## Course description and outline:
 
-This course serves as an advanced introduction to dynamic programming and optimal control. The first part of the course will cover  problem formulation and problem specific solution ideas arising in cannonincal control problems. The second part of the course covers algorithms for computing optimal (or effective) policies. 
+This course serves as an advanced introduction to dynamic programming and optimal control. The first part of the course will cover  problem formulation and problem specific solution ideas arising in cannonincal control problems. The second part of the course covers algorithms for computing optimal (or effective) policies. Here we will introduce classical algorithms that 
 
 
 * Problem formulations
@@ -20,11 +20,11 @@ This course serves as an advanced introduction to dynamic programming and optima
   * Infinite horizon discounted
   * Continuous-time discrete-state problems
   * Brief overview of average cost and indefinite horizon problems. 
-* Problem specific ideas
+* Problem specific ideas and examples
   * Myopic policies in optimal stopping 
   * Base-stock and (s,S) policies in inventory control
   * Linear policies in linear quadratic control
-  * Kalman filtering and certainty equivalent control
+  * Kalman filtering and certainty equivalence in LQR with partial observability 
   * Interchange arguments and optimality of index policies in multi-armed bandits and control of queues. 
 * Exact algorithms for problems with tractable state-spaces
   * Value Iterations
