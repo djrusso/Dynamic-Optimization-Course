@@ -13,7 +13,7 @@ Course Number: B9120-001
 
 ## Course description:
 
-This course serves as an advanced introduction to dynamic programming and optimal control. The first part of the course will cover  problem formulation and problem specific solution ideas arising in cannonincal control problems. The second part of the course covers algorithms, treating foundations of approximate dynamic programming and reinforcement learning alongside exact dynamic programming algorithms. 
+This course serves as an advanced introduction to dynamic programming and optimal control. The first part of the course will cover  problem formulation and problem specific solution ideas arising in canonical control problems. The second part of the course covers algorithms, treating foundations of approximate dynamic programming and reinforcement learning alongside exact dynamic programming algorithms. 
 
 ## Tentative syllabus
 * Problem formulations
@@ -41,7 +41,7 @@ This course serves as an advanced introduction to dynamic programming and optima
 
 
 ## Prerequisites
-Markov chains, linear programming; mathematical maturity (this is a doctoral course). 
+Markov chains; linear programming; mathematical maturity (this is a doctoral course). 
 
 ## Textbooks
 Dynamic Programming and Optimal Control by Dimitris Bertsekas, 4th Edition, Volumes I and II. 
