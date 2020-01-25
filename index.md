@@ -6,6 +6,7 @@ Schedule: Winter 2020, Mondays 2:30pm - 5:45pm
 Location: Warren Hall, room #415 
 
 Professor: Daniel Russo
+
 TAs: Jalaj Bhandari and Chao Qin 
 
 Course Number: B9120-001
