@@ -53,7 +53,8 @@ Dynamic Programming and Optimal Control by Dimitris Bertsekas, 4th Edition, Volu
 You will be asked to scribe lecture notes of high quality. There will be a few homework questions each week, mostly drawn from the Bertsekas books. The main deliverable will be either a project writeup or a take home exam. 
 
 
-##Homework 
+## Homework 
+We will have a short homework each week. 
 1. Due Monday 2/3: Vol I problems 1.23, 1.24 and 3.18
 
 
