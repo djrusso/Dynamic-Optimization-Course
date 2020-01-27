@@ -59,3 +59,6 @@ We will have a short homework each week. Please write down a precise, rigorous, 
 1. Due Monday 2/3: Vol I problems 1.23, 1.24 and 3.18
 
 
+## Reading 
+
+1. For Class 1: Vol 1 sections 1.2-1.4, 3.4
