@@ -3,7 +3,7 @@
 ## Course Information
 Schedule: Winter 2020, Mondays 2:30pm - 5:45pm
 
-Location: Warren Hall, room #415 
+Location: Warren Hall, room #416 
 
 Professor: Daniel Russo
 
