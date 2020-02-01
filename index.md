@@ -62,3 +62,8 @@ We will have a short homework each week. Please write down a precise, rigorous, 
 ## Reading 
 
 1. For Class 1: Vol 1 sections 1.2-1.4, 3.4
+
+
+## Lecture Notes
+1. [Class 1 Notes](https://djrusso.github.io/Dynamic-Optimization-Course/DP_Notes_1.pdf) 
+
