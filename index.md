@@ -66,4 +66,6 @@ We will have a short homework each week. Please write down a precise, rigorous, 
 
 ## Lecture Notes
 1. [Class 1 Notes](https://djrusso.github.io/Dynamic-Optimization-Course/DP_Notes_1.pdf) 
+2. [Class 2 Notes](https://djrusso.github.io/Dynamic-Optimization-Course/DP_Notes_2.pdf) 
+
 
