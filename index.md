@@ -19,6 +19,7 @@ This course serves as an advanced introduction to dynamic programming and optima
 ## Tentative syllabus
 * Problem formulations
   * Finite horizon
+  * Partially observable problems and the belief state 
   * Infinite horizon discounted
   * Continuous-time discrete-state problems
   * Brief overview of average cost and indefinite horizon problems. 
@@ -26,7 +27,7 @@ This course serves as an advanced introduction to dynamic programming and optima
   * Myopic policies in optimal stopping 
   * Base-stock and (s,S) policies in inventory control
   * Linear policies in linear quadratic control
-  * Kalman filtering and certainty equivalence in LQR with partial observability 
+  * Separation principle and Kalman filtering in LQ control with partial observability 
   * Interchange arguments and optimality of index policies in multi-armed bandits and control of queues. 
 * Exact algorithms for problems with tractable state-spaces
   * Value Iterations
