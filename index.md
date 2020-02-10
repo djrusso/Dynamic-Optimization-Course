@@ -56,7 +56,7 @@ You will be asked to scribe lecture notes of high quality. There will be a few h
 ## Homework 
 We will have a short homework each week. Please write down a precise, rigorous, formulation of all word problems. For example, specify the state space, the cost functions at each state, etc. 
 
-1. Due Monday 2/3: Vol I problems 1.23, 1.24 and 3.18.  [Solutions to 1.23,1.24](https://djrusso.github.io/Dynamic-Optimization-Course/HW1 Solns.pdf) 
+1. Due Monday 2/3: Vol I problems 1.23, 1.24 and 3.18.  [Solutions to 1.23,1.24](https://djrusso.github.io/Dynamic-Optimization-Course/HW1 Solns.pdf) [Solution to 3.18](https://djrusso.github.io/Dynamic-Optimization-Course/HW1 problem 3.18 soln.pdf)
 2. Due Monday 2/10: [Homework 2](https://djrusso.github.io/Dynamic-Optimization-Course/HW2.pdf) 
 3. Due Monday 2/17: Vol I problem 4.14 parts (a) and (b). Vol II problems 1.5 and 1.14. 
 
