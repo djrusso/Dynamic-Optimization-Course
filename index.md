@@ -58,11 +58,14 @@ We will have a short homework each week. Please write down a precise, rigorous, 
 
 1. Due Monday 2/3: Vol I problems 1.23, 1.24 and 3.18
 2. Due Monday 2/10: [Homework 2](https://djrusso.github.io/Dynamic-Optimization-Course/HW2.pdf) 
+3. Due Monday 2/17: Vol I problem 4.14 parts (a) and (b). Vol II problems 1.5 and 1.14. 
 
 ## Reading 
 
-1. For Class 1: Vol 1 sections 1.2-1.4, 3.4
-2. For Class 2: Vol 1 sections 3.1, 3.2. 
+1. For Class 1 (1/27): Vol 1 sections 1.2-1.4, 3.4
+2. For Class 2 (2/3): Vol 1 sections 3.1, 3.2. 
+3. For Class 3 (2/10): Vol 1 sections 4.2-4.3, Vol 2, sections 1.1, 1.2, 1.4
+4. For Class 4 (2/17): Vol 2 sections 1.3,1.4. [A Short Proof of the Gittins Index Thoorem](https://djrusso.github.io/Dynamic-Optimization-Course/short_proof.pdf) 
 
 ## Lecture Notes
 1. [Class 1 Notes](https://djrusso.github.io/Dynamic-Optimization-Course/DP_Notes_1.pdf) 
