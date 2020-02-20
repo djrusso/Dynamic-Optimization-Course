@@ -60,17 +60,20 @@ We will have a short homework each week. Please write down a precise, rigorous, 
 1. Due Monday 2/3: Vol I problems 1.23, 1.24 and 3.18.  [Solutions to 1.23,1.24](https://djrusso.github.io/Dynamic-Optimization-Course/HW1_Solns.pdf) [Solution to 3.18](http://www.athenasc.com/DP_4thEd_theo_sol_Vol1.pdf)
 2. Due Monday 2/10: [Homework 2](https://djrusso.github.io/Dynamic-Optimization-Course/HW2.pdf) 
 3. Due Monday 2/17: Vol I problem 4.14 parts (a) and (b). Vol II problems 1.5 and 1.14. 
+2. Due Monday 2/24: [Homework 4](https://djrusso.github.io/Dynamic-Optimization-Course/HW4.pdf) 
 
 ## Reading 
 
 1. For Class 1 (1/27): Vol 1 sections 1.2-1.4, 3.4
 2. For Class 2 (2/3): Vol 1 sections 3.1, 3.2. 
 3. For Class 3 (2/10): Vol 1 sections 4.2-4.3, Vol 2, sections 1.1, 1.2, 1.4
-4. For Class 4 (2/17): Vol 2 sections 1.3,1.4. [A Short Proof of the Gittins Index Thoorem](https://djrusso.github.io/Dynamic-Optimization-Course/short_proof.pdf) 
+4. For Class 4 (2/17): Vol 2 section 1.4, 1.5
+5: For Class 5 (2/24): Vol 2 section 1.3. [A Short Proof of the Gittins Index Theorem](https://djrusso.github.io/Dynamic-Optimization-Course/short_proof.pdf), [Connections between Gittins Indices and UCB](https://arxiv.org/abs/1904.04732)
 
 ## Lecture Notes
 1. [Class 1 Notes](https://djrusso.github.io/Dynamic-Optimization-Course/DP_Notes_1.pdf) 
 2. [Class 2 Notes](https://djrusso.github.io/Dynamic-Optimization-Course/DP_Notes_2.pdf) 
 3. [Class 3 Notes](https://djrusso.github.io/Dynamic-Optimization-Course/DP_Notes_3.pdf)
+4. [Class 4 Notes](https://djrusso.github.io/Dynamic-Optimization-Course/DP_Notes_4.pdf)
 
 
