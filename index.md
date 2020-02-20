@@ -48,11 +48,14 @@ Markov chains; linear programming; mathematical maturity (this is a doctoral cou
 ## Textbooks
 Dynamic Programming and Optimal Control by Dimitris Bertsekas, 4th Edition, Volumes I and II. 
 
-
 ## Course requirements
 
 You will be asked to scribe lecture notes of high quality. There will be a few homework questions each week, mostly drawn from the Bertsekas books. The main deliverable will be either a project writeup or a take home exam. 
 
+
+## Grading Breakdown
+
+I will follow the following weighting: 20% homework, 15% lecture scribing, 65% final or course project. 
 
 ## Homework 
 We will have a short homework each week. Please write down a precise, rigorous, formulation of all word problems. For example, specify the state space, the cost functions at each state, etc. 
