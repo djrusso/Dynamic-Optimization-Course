@@ -64,7 +64,7 @@ We will have a short homework each week. Please write down a precise, rigorous, 
 2. Due Monday 2/10: [Homework 2](https://djrusso.github.io/Dynamic-Optimization-Course/HW2.pdf). [Solutions to Homework 2](https://djrusso.github.io/Dynamic-Optimization-Course/HW2_Solns.pdf)
 3. Due Monday 2/17: Vol I problem 4.14 parts (a) and (b). Vol II problems 1.5 and 1.14. 
 4. Due Monday 2/24: [Homework 4](https://djrusso.github.io/Dynamic-Optimization-Course/HW4.pdf) 
-5. Due Monday 4/2: [Homework 5](https://djrusso.github.io/Dynamic-Optimization-Course/HW5.pdf)
+5. Due Monday 3/2: [Homework 5](https://djrusso.github.io/Dynamic-Optimization-Course/HW5.pdf)
 
 ## Reading 
 
