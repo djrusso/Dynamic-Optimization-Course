@@ -79,5 +79,6 @@ We will have a short homework each week. Please write down a precise, rigorous, 
 2. [Class 2 Notes](https://djrusso.github.io/Dynamic-Optimization-Course/DP_Notes_2.pdf) 
 3. [Class 3 Notes](https://djrusso.github.io/Dynamic-Optimization-Course/DP_Notes_3.pdf)
 4. [Class 4 Notes](https://djrusso.github.io/Dynamic-Optimization-Course/DP_Notes_4.pdf)
+5. [Class 5 Notes](https://djrusso.github.io/Dynamic-Optimization-Course/DP_Notes_5.pdf)
 
 
