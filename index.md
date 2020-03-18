@@ -80,6 +80,6 @@ We will have a short homework each week. Please write down a precise, rigorous, 
 3. [Class 3 Notes](https://djrusso.github.io/Dynamic-Optimization-Course/DP_Notes_3.pdf)
 4. [Class 4 Notes](https://djrusso.github.io/Dynamic-Optimization-Course/DP_Notes_4.pdf)
 5. [Class 5 Notes](https://djrusso.github.io/Dynamic-Optimization-Course/DP_Notes_5.pdf)
-6. [slides on priority policies in scheduling](Priority policies in scheduling.pdf)  [Class 6 Notes](https://djrusso.github.io/Dynamic-Optimization-Course/DP_Notes_6.pdf)
+6. [slides on priority policies in scheduling](https://djrusso.github.io/Dynamic-Optimization-Course/Priority policies in scheduling.pdf)  [Class 6 Notes](https://djrusso.github.io/Dynamic-Optimization-Course/DP_Notes_6.pdf)
 
 
