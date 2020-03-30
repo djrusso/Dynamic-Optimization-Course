@@ -64,7 +64,7 @@ We will have a short homework each week. Please write down a precise, rigorous, 
 2. Due Monday 2/10: [Homework 2](https://djrusso.github.io/Dynamic-Optimization-Course/HW2.pdf). [Solutions to Homework 2](https://djrusso.github.io/Dynamic-Optimization-Course/HW2_Solns.pdf)
 3. Due Monday 2/17: Vol I problem 4.14 parts (a) and (b). Vol II problems 1.5 and 1.14. 
 4. Due Monday 2/24: [Homework 4](https://djrusso.github.io/Dynamic-Optimization-Course/HW4.pdf) 
-5. Due Monday 3/2: [Homework 5](https://djrusso.github.io/Dynamic-Optimization-Course/HW5.pdf)
+5. Due Monday 3/2: [Homework 5](https://djrusso.github.io/Dynamic-Optimization-Course/HW5.pdf) [Solutions to Homework 5](https://djrusso.github.io/Dynamic-Optimization-Course/HW5_solutions.pdf)
 6. Due Monday 3/23: [Homework 6](https://djrusso.github.io/Dynamic-Optimization-Course/HW6.pdf)
 
 ## Reading 
@@ -83,5 +83,6 @@ We will have a short homework each week. Please write down a precise, rigorous, 
 5. [Class 5 Notes](https://djrusso.github.io/Dynamic-Optimization-Course/DP_Notes_5.pdf)
 6.  [Class 6 Notes](https://djrusso.github.io/Dynamic-Optimization-Course/DP_Notes_6.pdf) and [slides on priority policies in scheduling](https://djrusso.github.io/Dynamic-Optimization-Course/priority_policies.pdf)  
 7. [Class 7 Slides](https://djrusso.github.io/Dynamic-Optimization-Course/DP_slides_7.pdf) 
+8. [Class 8 Slides](https://djrusso.github.io/Dynamic-Optimization-Course/DP_slides_8.pdf) 
 
 
