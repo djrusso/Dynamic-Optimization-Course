@@ -76,8 +76,8 @@ We will have a short homework each week. Please write down a precise, rigorous, 
 3. For Class 3 (2/10): Vol 1 sections 4.2-4.3, Vol 2, sections 1.1, 1.2, 1.4
 4. For Class 4 (2/17): Vol 2 section 1.4, 1.5
 5. For Class 5 (2/24): Vol 2 section 1.3. [A Short Proof of the Gittins Index Theorem](https://djrusso.github.io/Dynamic-Optimization-Course/short_proof.pdf), [Connections between Gittins Indices and UCB](https://arxiv.org/abs/1904.04732)
-6. For Class 6: Vol 2 section 2.3. [RTDP 
-7. For Class 7: 
+6. For Class 6: Vol 2, section 2.3.  [RTDP](https://djrusso.github.io/Dynamic-Optimization-Course/paper_RTDP.pdf), [State aggregation 1](https://djrusso.github.io/Dynamic-Optimization-Course/paper_state_agg_1.pdf), [State aggregation 2](https://djrusso.github.io/Dynamic-Optimization-Course/paper_state_agg_2.pdf)
+7. For Class 7: Vol 2, section 6.3. [Fitted value iteration](https://djrusso.github.io/Dynamic-Optimization-Course/paper_fitted_vi.pdf),[Deep Q learning in Atari](https://djrusso.github.io/Dynamic-Optimization-Course/paper_dqn.pdf)
 8. For Class 8: Vol 2 section 2.4, 6.4. [Alpha Go Paper](https://www.nature.com/articles/nature24270)
 9. For Class 9: Chapter 13 of 
 
