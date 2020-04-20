@@ -93,6 +93,7 @@ We will have a short homework each week. Please write down a precise, rigorous, 
 7. [Class 7 Slides](https://djrusso.github.io/Dynamic-Optimization-Course/DP_slides_7.pdf) 
 8. [Class 8 Slides](https://djrusso.github.io/Dynamic-Optimization-Course/DP_slides_8.pdf) 
 9. [Class 9 Slides](https://djrusso.github.io/Dynamic-Optimization-Course/DP_slides_9.pdf) 
-9. [Class 10 Slides](https://djrusso.github.io/Dynamic-Optimization-Course/DP_slides_10.pdf), [Recap given in class 10](https://djrusso.github.io/Dynamic-Optimization-Course/Recap_10.pdf) 
+9. Class 10 Slides subsumed by class 11. [Recap given in class 10](https://djrusso.github.io/Dynamic-Optimization-Course/Recap_10.pdf)
+10. [Class 10 and 11 Slides](https://djrusso.github.io/Dynamic-Optimization-Course/DP_slides_10_11.pdf)
 
 
