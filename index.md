@@ -5,6 +5,7 @@ Schedule: Fall 2023, Thursdays 9:00am - 12:15pm
 Location: 430 Kravis Hall
 
 Professor: Daniel Russo
+Office hours: 12:15-1:00 PM or by appointment 
 
 TA: David Cheikhi
 
@@ -27,8 +28,8 @@ Dynamic Programming and Optimal Control by Dimitris Bertsekas, 4th Edition, Volu
 | # | Date  | Topic  | Notes| Reading| Extras| 
 |-|-|-|-|-|-|
 | | | **Part I: Problem formulation and special problem structure** |  |  |
-| 1 | 9/7 | Intro  |   |  Vol 1, Sec 1.2-1.4
-| 2 | 9/7 | Optimal stopping  |   | Vol 1, Sec 3.4  | | 
+| 1 | 9/7 | Intro  | [pdf](Notes/1A-Intro.pdf)   |  Vol 1, Sec 1.2-1.4
+| 2 | 9/7 | Optimal stopping  | [pdf](Notes/1B-Optimal-Stopping.pdf)  | Vol 1, Sec 3.4  | | 
 | 3 | 9/14 | Inventory control  |  | Vol 1, Sec 3.2  |  
 | 4 | 9/14 | Linear quadratic control  | | Vol 1, Sec 3.1  |  
 | 5 | 9/21| Imperfect state information; reformulation as a problem with perfect state information; separation principle  |  |  Vol 1, Sec 4.1-4.3
