@@ -30,8 +30,8 @@ Dynamic Programming and Optimal Control by Dimitris Bertsekas, 4th Edition, Volu
 | | | **Part I: Problem formulation and special problem structure** |  |  |
 | 1 | 9/7 | Intro  | [pdf](Notes/1A-Intro.pdf)   |  Vol 1, Sec 1.2-1.4
 | 2 | 9/7 | Optimal stopping  | [pdf](Notes/1B-Optimal-Stopping.pdf)  | Vol 1, Sec 3.4  | | 
-| 3 | 9/14 | Inventory control  |  | Vol 1, Sec 3.2  |  
-| 4 | 9/14 | Linear quadratic control  | | Vol 1, Sec 3.1  |  
+| 3 | 9/14 | Inventory control  | [pdf](Notes/2A-Inventory-Control.pdf)  | Vol 1, Sec 3.2  |  
+| 4 | 9/14 | Linear quadratic control  | [pdf](Notes/2B-Linear-Quadratic-Control.pdf) | Vol 1, Sec 3.1  |  
 | 5 | 9/21| Imperfect state information; reformulation as a problem with perfect state information; separation principle  |  |  Vol 1, Sec 4.1-4.3
 |6 | 9/28| Discounted infinite horizon objectives. | | Vol 2 Sec 1.4
 |7 | 9/28| Continuous time, discrete event problems; uniformization| |Vol 2 Sec 1.5 
@@ -62,3 +62,4 @@ Homework (90%). Lecture scribing and class participation (10%).
 We will have a short homework each week. Please write down a precise, rigorous, formulation of all word problems. For example, specify the state space, the cost functions at each state, etc. 
 
 1. Due September 14. Vol 1. Problems 1.23, 1.24, 3.18. [Scan](HW/hw1_scan.pdf)
+2. Due September 21. (HW/hw2.pdf)
