@@ -62,4 +62,4 @@ Homework (90%). Lecture scribing and class participation (10%).
 We will have a short homework each week. Please write down a precise, rigorous, formulation of all word problems. For example, specify the state space, the cost functions at each state, etc. 
 
 1. Due September 14. Vol 1. Problems 1.23, 1.24, 3.18. [Scan](HW/hw1_scan.pdf)
-2. Due September 21. (HW/hw2.pdf)
+2. Due September 21. [pdf](HW/hw2.pdf)
