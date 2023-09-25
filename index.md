@@ -32,7 +32,7 @@ Dynamic Programming and Optimal Control by Dimitris Bertsekas, 4th Edition, Volu
 | 2 | 9/7 | Optimal stopping  | [pdf](Notes/1B-Optimal-Stopping.pdf)  | Vol 1, Sec 3.4  | | 
 | 3 | 9/14 | Inventory control  | [pdf](Notes/2A-Inventory-Control.pdf)  | Vol 1, Sec 3.2  |  
 | 4 | 9/14 | Linear quadratic control  | [pdf](Notes/2B-Linear-Quadratic-Control.pdf) | Vol 1, Sec 3.1  |  
-| 5 | 9/21| Imperfect state information; reformulation as a problem with perfect state information; separation principle  |  |  Vol 1, Sec 4.1-4.3
+| 5 | 9/21| Imperfect state information; reformulation as a problem with perfect state information; separation principle  | [pdf](Notes/3-Partial-Observability.pdf) |  Vol 1, Sec 4.1-4.3
 |6 | 9/28| Discounted infinite horizon objectives. | | Vol 2 Sec 1.4
 |7 | 9/28| Continuous time, discrete event problems; uniformization| |Vol 2 Sec 1.5 
 |8|  10/5| Gittins index theorem; Applications to scheduling and optimal learning; |  | 
