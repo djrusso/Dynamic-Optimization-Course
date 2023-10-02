@@ -63,3 +63,6 @@ We will have a short homework each week. Please write down a precise, rigorous, 
 
 1. Due September 14. Vol 1. Problems 1.23, 1.24, 3.18. [Scan](HW/hw1_scan.pdf)
 2. Due September 21. [pdf](HW/hw2.pdf)
+3. Due September 29. see canvas annoucement
+4. Due October 5. [pdf](HW/hw4.pdf)
+
