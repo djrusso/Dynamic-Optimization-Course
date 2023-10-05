@@ -34,8 +34,9 @@ Dynamic Programming and Optimal Control by Dimitris Bertsekas, 4th Edition, Volu
 | 4 | 9/14 | Linear quadratic control  | [pdf](Notes/2B-Linear-Quadratic-Control.pdf) | Vol 1, Sec 3.1  |  
 | 5 | 9/21| Imperfect state information; reformulation as a problem with perfect state information; separation principle  | [pdf](Notes/3-Partial-Observability.pdf) |  Vol 1, Sec 4.1-4.3
 |6 | 9/28| Discounted infinite horizon objectives. |  [pdf](Notes/4-discounting.pdf) | Vol 2 Sec 1.4
-|7 | 10/5| Continuous time, discrete event problems; uniformization| |Vol 2 Sec 1.5 
-|8|  10/5| Gittins index theorem; Applications to scheduling and optimal learning; |  | 
+|7 | 10/5| Continuous time, discrete event problems; uniformization| |Vol 2 Sec 1.5 | [pdf](Notes/5A-Continuous-Time-Discrete-Event.pdf)
+|8|  10/5| Gittins index theorem; Applications to scheduling and optimal learning; | [pdf1](Notes/5B-Gittins.pdf), [pdf2](Notes/5B-priority-policies.pdf), [pdf3](Notes/5B-Tsitsiklis-short-proof.pdf)| 
+|8|  10/5| Gittins index theorem continued|   | 
 |9| 10/12| Infinite (or indeterminate) horizon problems without discounting: average cost objectives & stochastic shortest path problems. 
 |10| 10/19| No B-school classes scheduled|  | | 
 | | | **Part 2: Algorithms and approximations** |  |  |
