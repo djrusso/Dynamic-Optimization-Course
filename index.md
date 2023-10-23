@@ -36,17 +36,17 @@ Dynamic Programming and Optimal Control by Dimitris Bertsekas, 4th Edition, Volu
 |6 | 9/28| Discounted infinite horizon objectives. |  [pdf](Notes/4-discounting.pdf) | Vol 2 Sec 1.4
 |7 | 10/5| Continuous time, discrete event problems; uniformization| |Vol 2 Sec 1.5 | [pdf](Notes/5A-Continuous-Time-Discrete-Event.pdf)
 |8|  10/5| Gittins index theorem; Applications to scheduling and optimal learning; | [pdf1](Notes/5B-Gittins.pdf), [pdf2](Notes/5B-priority-policies.pdf), [pdf3](Notes/5B-Tsitsiklis-short-proof.pdf)| 
-|8|  10/5| Gittins index theorem continued|   | 
-|9| 10/12| Infinite (or indeterminate) horizon problems without discounting: average cost objectives & stochastic shortest path problems. 
-|10| 10/19| No B-school classes scheduled|  | | 
+|9|  10/12| Gittins index theorem continued|   | 
+| | 10/19| No B-school classes scheduled|  | | 
 | | | **Part 2: Algorithms and approximations** |  |  |
-|11| 10/26|  Exact algorithms for problems with enumerable state space: value iteration, policy iteration, and linear programming.   |  
-|12| 11/2 |  
-|13| 11/9 |  
-|14| 11/16 |  
-|15| 11/23|  No B-school classes scheduled |  | 
-| 16| 11/30 | 
-|17| Dec 7| 
+|10| 10/26| Infinite (or indeterminate) horizon problems without discounting: average cost objectives & stochastic shortest path problems. |
+|11| 10/26| State occupancy measures and performance differences. |
+|11| 11/2 |   Exact algorithms for problems with enumerable state space: value iteration, policy iteration, and linear programming.   |  
+|12| 11/9 |  
+|13| 11/16 |  
+| | 11/23|  No B-school classes scheduled |  | 
+|14| 11/30 | 
+|15| Dec 7| 
 
 Topics for part 2 are yet to be determined. Some possibilities include:
 
@@ -67,5 +67,6 @@ We will have a short homework each week. Please write down a precise, rigorous, 
 3. Due September 29. see canvas annoucement
 4. Due October 5. [pdf](HW/hw4.pdf)
 5. Due October 12. [pdf](HW/hw5.pdf)
+6. Due October 26. Vol 2. Problem 1.8. You may assume that the state space of each bandit process is finite. 
 
 
