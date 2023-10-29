@@ -39,9 +39,9 @@ Dynamic Programming and Optimal Control by Dimitris Bertsekas, 4th Edition, Volu
 |9|  10/12| Gittins index theorem continued|   | 
 | | 10/19| No B-school classes scheduled|  | | 
 | | | **Part 2: Algorithms and approximations** |  |  |
-|10| 10/26| Infinite (or indeterminate) horizon problems without discounting: average cost objectives & stochastic shortest path problems. |
-|11| 10/26| State occupancy measures and performance differences. |
-|11| 11/2 |   Exact algorithms for problems with enumerable state space: value iteration, policy iteration, and linear programming.   |  
+|10| 10/26| Infinite (or indefinite) horizon problems without discounting: average cost objectives & stochastic shortest path problems. | [pdf](Notes/7A-IndefiniteHorizon)
+|11| 11/2 |   Online value iteration 
+|11| 11/2| State occupancy measures and performance differences. |
 |12| 11/9 |  
 |13| 11/16 |  
 | | 11/23|  No B-school classes scheduled |  | 
@@ -68,5 +68,7 @@ We will have a short homework each week. Please write down a precise, rigorous, 
 4. Due October 5. [pdf](HW/hw4.pdf)
 5. Due October 12. [pdf](HW/hw5.pdf)
 6. Due October 26. Vol 2. Problem 1.8. You may assume that the state space of each bandit process is finite. 
+7/ Due November 2. [pdf](HW/hw7.pdf)
+
 
 
