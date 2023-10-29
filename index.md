@@ -68,7 +68,7 @@ We will have a short homework each week. Please write down a precise, rigorous, 
 4. Due October 5. [pdf](HW/hw4.pdf)
 5. Due October 12. [pdf](HW/hw5.pdf)
 6. Due October 26. Vol 2. Problem 1.8. You may assume that the state space of each bandit process is finite. 
-7/ Due November 2. [pdf](HW/hw7.pdf)
+7. Due November 2. [pdf](HW/hw7.pdf)
 
 
 
