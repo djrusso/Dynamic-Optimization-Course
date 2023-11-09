@@ -40,9 +40,9 @@ Dynamic Programming and Optimal Control by Dimitris Bertsekas, 4th Edition, Volu
 | | 10/19| No B-school classes scheduled|  | | 
 | | | **Part 2: Algorithms and approximations** |  |  |
 |10| 10/26| Infinite (or indefinite) horizon problems without discounting: average cost objectives & stochastic shortest path problems. | [pdf](Notes/7A-IndefiniteHorizon.pdf)
-|11| 11/2 |   Online value iteration 
-|11| 11/2| State occupancy measures and performance differences. |
-|12| 11/9 |  
+|11| 11/2 |   Online value iteration. | [pdf](Notes/8-RTDP.pdf) | |
+|12| 11/9 |  Approximate value iteration. | [pdf](Notes/9A-ApproximateVI.pdf) | |
+|12| 11/9 |  Approximation benefits of online value iteration. | [pdf](Notes/9B-Approximate-RTDP.pdf) | |
 |13| 11/16 |  
 | | 11/23|  No B-school classes scheduled |  | 
 |14| 11/30 | 
