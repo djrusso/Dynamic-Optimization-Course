@@ -45,7 +45,7 @@ Dynamic Programming and Optimal Control by Dimitris Bertsekas, 4th Edition, Volu
 |12| 11/9 |  Approximation benefits of online value iteration. | [pdf](Notes/9B-Approximate-RTDP.pdf) | |
 |13| 11/16 | Policy iteration; impact of distribution shift on convergence rate. | [pdf](Notes/10-policy-iteration.pdf) | |
 | | 11/23|  No B-school classes scheduled |  | 
-|14| 11/30 | 
+|14| 11/30 | Policy gradient methods  |  |
 |15| Dec 7| 
 
 Topics for part 2 are yet to be determined. Some possibilities include:
@@ -70,6 +70,7 @@ We will have a short homework each week. Please write down a precise, rigorous, 
 6. Due October 26. Vol 2. Problem 1.8. You may assume that the state space of each bandit process is finite. 
 7. Due November 2. [pdf](HW/hw7.pdf)
 8. Due November 17. [pdf](HW/hw8.pdf)
+9. Due December 9. [pdf](HW/hw9.pdf)
 
 
 
