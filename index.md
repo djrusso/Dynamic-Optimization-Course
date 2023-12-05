@@ -45,7 +45,7 @@ Dynamic Programming and Optimal Control by Dimitris Bertsekas, 4th Edition, Volu
 |12| 11/9 |  Approximation benefits of online value iteration. | [pdf](Notes/9B-Approximate-RTDP.pdf) | |
 |13| 11/16 | Policy iteration; impact of distribution shift on convergence rate. | [pdf](Notes/10-policy-iteration.pdf) | |
 | | 11/23|  No B-school classes scheduled |  | 
-|14| 11/30 | Policy gradient methods  | [pdf](Notes/11-policy-gradient.pdf |
+|14| 11/30 | Policy gradient methods  | [pdf](Notes/11-policy-gradient.pdf) |
 |15| Dec 7| 
 
 Topics for part 2 are yet to be determined. Some possibilities include:
